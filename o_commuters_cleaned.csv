@@ -1,197 +1,197 @@
-,zielort,anzahl,anzahl_prozent,weiblich,weiblich_prozent,maennlich,maennlich_prozent,entfernung_in_km,year,category,breitengrad,laengengrad,herkunftsort
-0,Köln,8139,"8,8",3406,"8,7",4733,"8,8","34,2",2014,outgoing commuters,"51,4344","6,7623",Düsseldorf
-1,Essen,4943,"5,3",2205,"5,6",2738,"5,1","26,4",2014,outgoing commuters,"50,9375","6,9603",Düsseldorf
-2,Duisburg,4414,"4,8",1965,5,2449,"4,6","23,3",2014,outgoing commuters,"51,4556","7,0116",Düsseldorf
-3,Krefeld,3164,"3,4",1255,"3,2",1909,"3,6","20,2",2014,outgoing commuters,"51,3369","6,5535",Düsseldorf
-4,Wuppertal,2704,"2,9",1191,3,1513,"2,8","25,1",2014,outgoing commuters,"51,1805","6,4425",Düsseldorf
-5,Mönchengladbach,2449,"2,6",1177,3,1272,"2,4","28,9",2014,outgoing commuters,"51,2562","7,1507",Düsseldorf
-6,Mülheim an der Ruhr,1867,2,708,"1,8",1159,"2,2","20,4",2014,outgoing commuters,"51,4309","6,8785",Düsseldorf
-7,Leverkusen,1519,"1,6",623,"1,6",896,"1,7","24,9",2014,outgoing commuters,"51,1734","7,0845",Düsseldorf
-8,Solingen,1502,"1,6",635,"1,6",867,"1,6","19,6",2014,outgoing commuters,"51,496","6,8517",Düsseldorf
-9,Bonn,1077,"1,2",434,"1,1",643,"1,2","62,6",2014,outgoing commuters,"51,4812","7,2195",Düsseldorf
-10,Dortmund,1053,"1,1",388,1,665,"1,2","55,8",2014,outgoing commuters,"51,5136","7,4653",Düsseldorf
-11,Oberhausen,805,"0,9",328,"0,8",477,"0,9",31,2014,outgoing commuters,"51,0451","6,9944",Düsseldorf
-12,Ratingen,6202,"6,7",2805,"7,2",3397,"6,3","9,9",2014,outgoing commuters,"51,2969","6,8528",Düsseldorf
-13,Hilden,3729,4,1580,4,2149,4,"11,5",2014,outgoing commuters,"51,1657","6,9362",Düsseldorf
-14,Langenfeld (Rheinland),3436,"3,7",1459,"3,7",1977,"3,7","17,2",2014,outgoing commuters,"51,2249","6,9073",Düsseldorf
-15,Erkrath,2435,"2,6",1102,"2,8",1333,"2,5","8,4",2014,outgoing commuters,"51,1139","6,9805",Düsseldorf
-16,Monheim am Rhein,1543,"1,7",733,"1,9",810,"1,5","16,5",2014,outgoing commuters,"51,0969","6,9474",Düsseldorf
-17,Neuss,7935,"8,6",3346,"8,6",4589,"8,6","10,3",2014,outgoing commuters,"51,2042","6,6879",Düsseldorf
-18,Meerbusch,1888,2,925,"2,4",963,"1,8","11,1",2014,outgoing commuters,"51,2622","6,6751",Düsseldorf
-19,Dormagen,739,"0,8",250,"0,6",489,"0,9","14,6",2014,outgoing commuters,"51,2209","6,6194",Düsseldorf
-20,Kaarst,714,"0,8",312,"0,8",402,"0,7",14,2014,outgoing commuters,"51,0973","6,6864",Düsseldorf
-21,Grevenbroich,592,"0,6",247,"0,6",345,"0,6","21,7",2014,outgoing commuters,"51,0956","6,8397",Düsseldorf
-22,Willich,724,"0,8",264,"0,7",460,"0,9","20,6",2014,outgoing commuters,"51,2643","6,5491",Düsseldorf
-23,Viersen,454,"0,5",207,"0,5",247,"0,5","31,5",2014,outgoing commuters,"51,255","6,3934",Düsseldorf
-24,Kempen,157,"0,2",82,"0,2",75,"0,1","30,5",2014,outgoing commuters,"51,2889","6,3986",Düsseldorf
-25,Tönisvorst,143,"0,2",77,"0,2",66,"0,1","26,6",2014,outgoing commuters,"51,366","6,4153",Düsseldorf
-26,Nettetal,92,"0,1",46,"0,1",46,"0,1","40,1",2014,outgoing commuters,"51,3167","6,2833",Düsseldorf
-27,alle sonstigen Orte,24855,"26,8",9924,"25,4",14931,"27,8",x,2014,outgoing commuters,"0,0","0,0",Düsseldorf
-28,Köln,8425,"8,9",3500,"8,8",4925,"8,9","34,2",2015,outgoing commuters,"51,4344","6,7623",Düsseldorf
-29,Essen,5090,"5,3",2250,"5,6",2840,"5,1","26,4",2015,outgoing commuters,"50,9375","6,9603",Düsseldorf
-30,Duisburg,4329,"4,5",1922,"4,8",2407,"4,4","23,3",2015,outgoing commuters,"51,4556","7,0116",Düsseldorf
-31,Krefeld,3175,"3,3",1295,"3,2",1880,"3,4","20,2",2015,outgoing commuters,"51,3369","6,5535",Düsseldorf
-32,Wuppertal,2867,3,1279,"3,2",1588,"2,9","25,1",2015,outgoing commuters,"51,1805","6,4425",Düsseldorf
-33,Mönchengladbach,2525,"2,7",1210,3,1315,"2,4","28,9",2015,outgoing commuters,"51,2562","7,1507",Düsseldorf
-34,Mülheim an der Ruhr,1899,2,737,"1,8",1162,"2,1","20,4",2015,outgoing commuters,"51,4309","6,8785",Düsseldorf
-35,Leverkusen,1626,"1,7",696,"1,7",930,"1,7","24,9",2015,outgoing commuters,"51,1734","7,0845",Düsseldorf
-36,Solingen,1516,"1,6",630,"1,6",886,"1,6","19,6",2015,outgoing commuters,"51,496","6,8517",Düsseldorf
-37,Bonn,1146,"1,2",467,"1,2",679,"1,2","62,6",2015,outgoing commuters,"51,4812","7,2195",Düsseldorf
-38,Dortmund,988,1,393,1,595,"1,1","55,8",2015,outgoing commuters,"51,5136","7,4653",Düsseldorf
-39,Oberhausen,882,"0,9",379,"0,9",503,"0,9",31,2015,outgoing commuters,"51,0451","6,9944",Düsseldorf
-40,Ratingen,6331,"6,7",2836,"7,1",3495,"6,3","9,9",2015,outgoing commuters,"51,2969","6,8528",Düsseldorf
-41,Hilden,3940,"4,1",1681,"4,2",2259,"4,1","11,5",2015,outgoing commuters,"51,1657","6,9362",Düsseldorf
-42,Langenfeld (Rheinland),3443,"3,6",1449,"3,6",1994,"3,6","17,2",2015,outgoing commuters,"51,2249","6,9073",Düsseldorf
-43,Erkrath,2593,"2,7",1160,"2,9",1433,"2,6","8,4",2015,outgoing commuters,"51,1139","6,9805",Düsseldorf
-44,Monheim am Rhein,1650,"1,7",783,2,867,"1,6","16,5",2015,outgoing commuters,"51,0969","6,9474",Düsseldorf
-45,Neuss,8156,"8,6",3443,"8,6",4713,"8,5","10,3",2015,outgoing commuters,"51,2042","6,6879",Düsseldorf
-46,Meerbusch,1934,2,948,"2,4",986,"1,8","11,1",2015,outgoing commuters,"51,2622","6,6751",Düsseldorf
-47,Dormagen,770,"0,8",260,"0,7",510,"0,9","14,6",2015,outgoing commuters,"51,2209","6,6194",Düsseldorf
-48,Kaarst,700,"0,7",304,"0,8",396,"0,7",14,2015,outgoing commuters,"51,0973","6,6864",Düsseldorf
-49,Grevenbroich,605,"0,6",242,"0,6",363,"0,7","21,7",2015,outgoing commuters,"51,0956","6,8397",Düsseldorf
-50,Willich,750,"0,8",276,"0,7",474,"0,9","20,6",2015,outgoing commuters,"51,2643","6,5491",Düsseldorf
-51,Viersen,448,"0,5",219,"0,5",229,"0,4","31,5",2015,outgoing commuters,"51,255","6,3934",Düsseldorf
-52,Kempen,178,"0,2",90,"0,2",88,"0,2","30,5",2015,outgoing commuters,"51,2889","6,3986",Düsseldorf
-53,Tönisvorst,125,"0,1",70,"0,2",55,"0,1","26,6",2015,outgoing commuters,"51,366","6,4153",Düsseldorf
-54,Nettetal,99,"0,1",40,"0,1",59,"0,1","40,1",2015,outgoing commuters,"51,3167","6,2833",Düsseldorf
-55,alle sonstigen Orte,25418,"26,7",9947,"24,9",15471,28,x,2015,outgoing commuters,"0,0","0,0",Düsseldorf
-56,Köln,8997,"8,9",3841,"8,9",5156,"8,8","34,2",2016,outgoing commuters,"51,4344","6,7623",Düsseldorf
-57,Essen,5413,"5,3",2397,"5,5",3016,"5,2","26,4",2016,outgoing commuters,"50,9375","6,9603",Düsseldorf
-58,Duisburg,4574,"4,5",2051,"4,7",2523,"4,3","23,3",2016,outgoing commuters,"51,4556","7,0116",Düsseldorf
-59,Krefeld,3399,"3,3",1415,"3,3",1984,"3,4","20,2",2016,outgoing commuters,"51,3369","6,5535",Düsseldorf
-60,Wuppertal,3072,3,1390,"3,2",1682,"2,9","25,1",2016,outgoing commuters,"51,1805","6,4425",Düsseldorf
-61,Mönchengladbach,2616,"2,6",1281,3,1335,"2,3","28,9",2016,outgoing commuters,"51,2562","7,1507",Düsseldorf
-62,Mülheim an der Ruhr,1907,"1,9",771,"1,8",1136,"1,9","20,4",2016,outgoing commuters,"51,4309","6,8785",Düsseldorf
-63,Leverkusen,1775,"1,7",757,"1,8",1018,"1,7","24,9",2016,outgoing commuters,"51,1734","7,0845",Düsseldorf
-64,Solingen,1680,"1,7",705,"1,6",975,"1,7","19,6",2016,outgoing commuters,"51,496","6,8517",Düsseldorf
-65,Bonn,1292,"1,3",569,"1,3",723,"1,2","62,6",2016,outgoing commuters,"51,4812","7,2195",Düsseldorf
-66,Dortmund,993,1,363,"0,8",630,"1,1","55,8",2016,outgoing commuters,"51,5136","7,4653",Düsseldorf
-67,Oberhausen,916,"0,9",401,"0,9",515,"0,9",31,2016,outgoing commuters,"51,0451","6,9944",Düsseldorf
-68,Ratingen,6633,"6,5",3017,7,3616,"6,2","9,9",2016,outgoing commuters,"51,2969","6,8528",Düsseldorf
-69,Hilden,4096,4,1761,"4,1",2335,4,"11,5",2016,outgoing commuters,"51,1657","6,9362",Düsseldorf
-70,Langenfeld (Rheinland),3397,"3,3",1403,"3,2",1994,"3,4","17,2",2016,outgoing commuters,"51,2249","6,9073",Düsseldorf
-71,Erkrath,2756,"2,7",1264,"2,9",1492,"2,6","8,4",2016,outgoing commuters,"51,1139","6,9805",Düsseldorf
-72,Monheim am Rhein,1730,"1,7",824,"1,9",906,"1,6","16,5",2016,outgoing commuters,"51,0969","6,9474",Düsseldorf
-73,Neuss,8424,"8,3",3613,"8,4",4811,"8,2","10,3",2016,outgoing commuters,"51,2042","6,6879",Düsseldorf
-74,Meerbusch,2006,2,1016,"2,4",990,"1,7","11,1",2016,outgoing commuters,"51,2622","6,6751",Düsseldorf
-75,Dormagen,793,"0,8",253,"0,6",540,"0,9","14,6",2016,outgoing commuters,"51,2209","6,6194",Düsseldorf
-76,Kaarst,726,"0,7",330,"0,8",396,"0,7",14,2016,outgoing commuters,"51,0973","6,6864",Düsseldorf
-77,Grevenbroich,686,"0,7",280,"0,6",406,"0,7","21,7",2016,outgoing commuters,"51,0956","6,8397",Düsseldorf
-78,Willich,775,"0,8",291,"0,7",484,"0,8","20,6",2016,outgoing commuters,"51,2643","6,5491",Düsseldorf
-79,Viersen,458,"0,5",243,"0,6",215,"0,4","31,5",2016,outgoing commuters,"51,255","6,3934",Düsseldorf
-80,Kempen,195,"0,2",88,"0,2",107,"0,2","30,5",2016,outgoing commuters,"51,2889","6,3986",Düsseldorf
-81,Tönisvorst,145,"0,1",78,"0,2",67,"0,1","26,6",2016,outgoing commuters,"51,366","6,4153",Düsseldorf
-82,Nettetal,108,"0,1",53,"0,1",55,"0,1","40,1",2016,outgoing commuters,"51,3167","6,2833",Düsseldorf
-83,alle sonstigen Orte,28244,"27,8",11157,"25,8",17087,"29,3",x,2016,outgoing commuters,"0,0","0,0",Düsseldorf
-84,Köln,9 466    ,9,4 029    ,"9,1",5 437    ,9,"34,2",2017,outgoing commuters,"51,4344","6,7623",Düsseldorf
-85,Essen,5 616    ,"5,4",2 517    ,"5,7",3 099    ,"5,1","26,4",2017,outgoing commuters,"50,9375","6,9603",Düsseldorf
-86,Duisburg,4 665    ,"4,5",2 071    ,"4,7",2 594    ,"4,3","23,3",2017,outgoing commuters,"51,4556","7,0116",Düsseldorf
-87,Krefeld,3 622    ,"3,5",1 480    ,"3,3",2 142    ,"3,6","20,2",2017,outgoing commuters,"51,3369","6,5535",Düsseldorf
-88,Wuppertal,3 238    ,"3,1",1 429    ,"3,2",1 809    ,3,"25,1",2017,outgoing commuters,"51,1805","6,4425",Düsseldorf
-89,Mönchengladbach,2 830    ,"2,7",1 366    ,"3,1",1 464    ,"2,4","28,9",2017,outgoing commuters,"51,2562","7,1507",Düsseldorf
-90,Leverkusen,1 859    ,"1,8",763,"1,7",1 096    ,"1,8","24,9",2017,outgoing commuters,"51,1734","7,0845",Düsseldorf
-91,Mülheim an der Ruhr,1 832    ,"1,8",746,"1,7",1 086    ,"1,8","20,4",2017,outgoing commuters,"51,4309","6,8785",Düsseldorf
-92,Solingen,1 724    ,"1,6",730,"1,6",994,"1,6","19,6",2017,outgoing commuters,"51,496","6,8517",Düsseldorf
-93,Bonn,1 210    ,"1,2",511,"1,2",699,"1,2","62,6",2017,outgoing commuters,"51,4812","7,2195",Düsseldorf
-94,Dortmund,998,1,360,"0,8",638,"1,1","55,8",2017,outgoing commuters,"51,5136","7,4653",Düsseldorf
-95,Oberhausen,936,"0,9",424,1,512,"0,8",31,2017,outgoing commuters,"51,0451","6,9944",Düsseldorf
-96,Ratingen,6 824    ,"6,5",2 980    ,"6,7",3 844    ,"6,4","9,9",2017,outgoing commuters,"51,2969","6,8528",Düsseldorf
-97,Hilden,4 058    ,"3,9",1 731    ,"3,9",2 327    ,"3,9","11,5",2017,outgoing commuters,"51,1657","6,9362",Düsseldorf
-98,Langenfeld (Rheinland),3 573    ,"3,4",1 479    ,"3,3",2 094    ,"3,5","17,2",2017,outgoing commuters,"51,2249","6,9073",Düsseldorf
-99,Erkrath,2 751    ,"2,6",1 259    ,"2,8",1 492    ,"2,5","8,4",2017,outgoing commuters,"51,1139","6,9805",Düsseldorf
-100,Monheim am Rhein,1 861    ,"1,8",897,2,964,"1,6","16,5",2017,outgoing commuters,"51,0969","6,9474",Düsseldorf
-101,Neuss,8 684    ,"8,3",3 716    ,"8,4",4 968    ,"8,2","10,3",2017,outgoing commuters,"51,2042","6,6879",Düsseldorf
-102,Meerbusch,2 030    ,"1,9",1 030    ,"2,3",1 000    ,"1,7","11,1",2017,outgoing commuters,"51,2622","6,6751",Düsseldorf
-103,Dormagen,780,"0,7",252,"0,6",528,"0,9","14,6",2017,outgoing commuters,"51,2209","6,6194",Düsseldorf
-104,Kaarst,763,"0,7",353,"0,8",410,"0,7",14,2017,outgoing commuters,"51,0973","6,6864",Düsseldorf
-105,Grevenbroich,709,"0,7",296,"0,7",413,"0,7","21,7",2017,outgoing commuters,"51,0956","6,8397",Düsseldorf
-106,Willich,755,"0,7",283,"0,6",472,"0,8","20,6",2017,outgoing commuters,"51,2643","6,5491",Düsseldorf
-107,Viersen,470,"0,4",238,"0,5",232,"0,4","31,5",2017,outgoing commuters,"51,255","6,3934",Düsseldorf
-108,Kempen,203,"0,2",89,"0,2",114,"0,2","30,5",2017,outgoing commuters,"51,2889","6,3986",Düsseldorf
-109,Tönisvorst,149,"0,1",80,"0,2",69,"0,1","26,6",2017,outgoing commuters,"51,366","6,4153",Düsseldorf
-110,Nettetal,104,"0,1",51,"0,1",53,"0,1","40,1",2017,outgoing commuters,"51,3167","6,2833",Düsseldorf
-111,alle sonstigen Orte,29 167    ,"27,9",11 552    ,"26,1",17 615    ,"29,2",x,2017,outgoing commuters,"0,0","0,0",Düsseldorf
-112,Köln,9404,"8,886536953",3860,"8,671039626",5544,"9,043013033","34,2",2018,outgoing commuters,"51,4344","6,7623",Düsseldorf
-113,Essen,5714,"5,399582321",2578,"5,791176206",3136,"5,115239695","26,4",2018,outgoing commuters,"50,9375","6,9603",Düsseldorf
-114,Duisburg,4683,"4,425313968",2099,"4,715158595",2584,"4,214853116","23,3",2018,outgoing commuters,"51,4556","7,0116",Düsseldorf
-115,Krefeld,3638,"3,437815976",1491,"3,349357534",2147,"3,502047075","20,2",2018,outgoing commuters,"51,3369","6,5535",Düsseldorf
-116,Wuppertal,3221,"3,043761753",1435,"3,223560068",1786,"2,913207301","25,1",2018,outgoing commuters,"51,1805","6,4425",Düsseldorf
-117,Mönchengladbach,2773,"2,620413332",1291,"2,90008087",1482,"2,417342228","28,9",2018,outgoing commuters,"51,2562","7,1507",Düsseldorf
-118,Leverkusen,1911,"1,80584561",789,"1,772396442",1122,"1,83013359","24,9",2018,outgoing commuters,"51,1734","7,0845",Düsseldorf
-119,Mülheim an der Ruhr,1798,"1,699063531",772,"1,734207925",1026,"1,67354462","19,6",2018,outgoing commuters,"51,4309","6,8785",Düsseldorf
-120,Solingen,1630,"1,540307873",690,"1,550004493",940,"1,533267001","20,4",2018,outgoing commuters,"51,496","6,8517",Düsseldorf
-121,Bonn,1159,"1,095225046",486,"1,091742295",673,"1,097753927","62,6",2018,outgoing commuters,"51,4812","7,2195",Düsseldorf
-122,Dortmund,1102,"1,041361519",474,"1,064785695",628,"1,024352847",31,2018,outgoing commuters,"51,5136","7,4653",Düsseldorf
-123,Oberhausen,1093,"1,032856751",386,"0,867103963",707,"1,153212521","55,8",2018,outgoing commuters,"51,0451","6,9944",Düsseldorf
-124,Ratingen,6886,"6,507092031",2997,"6,732410819",3889,"6,343484431","9,9",2018,outgoing commuters,"51,2969","6,8528",Düsseldorf
-125,Hilden,4146,"3,917862846",1746,"3,922185282",2400,"3,914724257","11,5",2018,outgoing commuters,"51,1657","6,9362",Düsseldorf
-126,Langenfeld (Rheinland),3520,"3,326309025",1441,"3,237038368",2079,"3,391129887","17,2",2018,outgoing commuters,"51,2249","6,9073",Düsseldorf
-127,Erkrath,2763,"2,61096359",1265,"2,841674903",1498,"2,44344039","8,4",2018,outgoing commuters,"51,1139","6,9805",Düsseldorf
-128,Monheim am Rhein,1880,"1,776551411",872,"1,958846258",1008,"1,644184188","16,5",2018,outgoing commuters,"51,0969","6,9474",Düsseldorf
-129,Neuss,8826,"8,340341892",3776,"8,482343427",5050,"8,23723229","10,3",2018,outgoing commuters,"51,2042","6,6879",Düsseldorf
-130,Meerbusch,1971,"1,862544059",1002,"2,250876089",969,"1,580569919","11,1",2018,outgoing commuters,"51,2622","6,6751",Düsseldorf
-131,Dormagen,797,"0,753144402",261,"0,586306047",536,"0,874288417","14,6",2018,outgoing commuters,"51,2209","6,6194",Düsseldorf
-132,Kaarst,754,"0,712510513",353,"0,792973313",401,"0,654085178",14,2018,outgoing commuters,"51,0973","6,6864",Düsseldorf
-133,Grevenbroich,746,"0,70495072",306,"0,687393297",440,"0,717699447","21,7",2018,outgoing commuters,"51,0956","6,8397",Düsseldorf
-134,Willich,777,"0,734244918",304,"0,68290053",473,"0,771526906","20,6",2018,outgoing commuters,"51,2643","6,5491",Düsseldorf
-135,Viersen,537,"0,507451121",255,"0,572827747",282,"0,4599801","31,5",2018,outgoing commuters,"51,255","6,3934",Düsseldorf
-136,Kempen,214,"0,202224469",97,"0,217899182",117,"0,190842808","30,5",2018,outgoing commuters,"51,2889","6,3986",Düsseldorf
-137,Tönisvorst,151,"0,142691097",83,"0,186449816",68,"0,110917187","26,6",2018,outgoing commuters,"51,366","6,4153",Düsseldorf
-138,Nettetal,117,"0,110561976",55,"0,123551083",62,"0,101130377","40,1",2018,outgoing commuters,"51,3167","6,2833",Düsseldorf
-139,alle sonstigen Orte,29819,"28,17818433",11772,"26,44442448",18047,"29,43709527",x,2018,outgoing commuters,"0,0","0,0",Düsseldorf
-140,Köln,9717,"9,005978034",3949,"8,777506112",5768,"9,169382402","34,2",2019,outgoing commuters,"51,4344","6,7623",Düsseldorf
-141,Essen,5940,"5,505352426",2608,"5,796843743",3332,"5,296876242","26,4",2019,outgoing commuters,"50,9375","6,9603",Düsseldorf
-142,Duisburg,4742,"4,395013671",2109,"4,68770838",2633,"4,185676814","23,3",2019,outgoing commuters,"51,4556","7,0116",Düsseldorf
-143,Krefeld,3644,"3,377357616",1460,"3,245165592",2184,"3,471902075","20,2",2019,outgoing commuters,"51,3369","6,5535",Düsseldorf
-144,Wuppertal,3200,"2,965846425",1374,"3,054012003",1826,"2,902789921","25,1",2019,outgoing commuters,"51,1805","6,4425",Düsseldorf
-145,Mönchengladbach,2949,"2,733212846",1343,"2,985107802",1606,"2,553056196","28,8",2019,outgoing commuters,"51,2562","7,1507",Düsseldorf
-146,Leverkusen,1972,"1,827702859",794,"1,76483663",1178,"1,87266513","24,9",2019,outgoing commuters,"51,1734","7,0845",Düsseldorf
-147,Mülheim an der Ruhr,1779,"1,648825247",741,"1,647032674",1038,"1,650107305","19,6",2019,outgoing commuters,"51,4309","6,8785",Düsseldorf
-148,Solingen,1647,"1,526484082",690,"1,53367415",957,"1,521341706","20,4",2019,outgoing commuters,"51,496","6,8517",Düsseldorf
-149,Bonn,1180,"1,093655869",379,"0,842409424",801,"1,2733487","55,8",2019,outgoing commuters,"51,4812","7,2195",Düsseldorf
-150,Dortmund,1174,"1,088094907",482,"1,071349189",692,"1,100071536","62,6",2019,outgoing commuters,"51,5136","7,4653",Düsseldorf
-151,Oberhausen,957,"0,886973446",448,"0,995776839",509,"0,809156665",31,2019,outgoing commuters,"51,0451","6,9944",Düsseldorf
-152,Ratingen,7185,"6,659252051",3063,"6,808179595",4122,"6,552738256","9,9",2019,outgoing commuters,"51,2969","6,8528",Düsseldorf
-153,Hilden,4250,"3,939014783",1759,"3,909757724",2491,"3,959939591","11,5",2019,outgoing commuters,"51,1657","6,9362",Düsseldorf
-154,Langenfeld (Rheinland),3506,"3,249455489",1443,"3,207379418",2063,"3,279548526","17,2",2019,outgoing commuters,"51,2249","6,9073",Düsseldorf
-155,Erkrath,2701,"2,503359748",1270,"2,822849522",1431,"2,274858914","8,4",2019,outgoing commuters,"51,1139","6,9805",Düsseldorf
-156,Monheim am Rhein,1918,"1,777654201",896,"1,991553679",1022,"1,624672125","16,5",2019,outgoing commuters,"51,0969","6,9474",Düsseldorf
-157,Neuss,9067,"8,403540479",3840,"8,535230051",5227,"8,309355377","10,3",2019,outgoing commuters,"51,2042","6,6879",Düsseldorf
-158,Meerbusch,2029,"1,880531999",1042,"2,316070238",987,"1,569032668","11,1",2019,outgoing commuters,"51,2622","6,6751",Düsseldorf
-159,Dormagen,846,"0,784095649",265,"0,589019782",581,"0,923614975","14,6",2019,outgoing commuters,"51,2209","6,6194",Düsseldorf
-160,Kaarst,813,"0,753510357",375,"0,83351856",438,"0,696288053",14,2019,outgoing commuters,"51,0973","6,6864",Düsseldorf
-161,Grevenbroich,754,"0,698827564",325,"0,722382752",429,"0,681980765","21,6",2019,outgoing commuters,"51,0956","6,8397",Düsseldorf
-162,Willich,840,"0,778534687",330,"0,733496333",510,"0,810746364","20,6",2019,outgoing commuters,"51,2643","6,5491",Düsseldorf
-163,Viersen,549,"0,508828027",280,"0,622360525",269,"0,427628964","31,5",2019,outgoing commuters,"51,255","6,3934",Düsseldorf
-164,Kempen,200,"0,185365402",98,"0,217826184",102,"0,162149273","30,5",2019,outgoing commuters,"51,2889","6,3986",Düsseldorf
-165,Tönisvorst,156,"0,144585013",87,"0,193376306",69,"0,109689214","26,6",2019,outgoing commuters,"51,366","6,4153",Düsseldorf
-166,Nettetal,104,"0,096390009",49,"0,108913092",55,"0,087433431","40,1",2019,outgoing commuters,"51,3167","6,2833",Düsseldorf
-167,alle sonstigen Orte,30129,"27,92437092",11880,"26,40586797",18249,"29,01041253",x,2019,outgoing commuters,"0,0","0,0",Düsseldorf
-168,Köln,9155,"8,638259327",,,,,"34,2",2020,outgoing commuters,"51,4344","6,7623",Düsseldorf
-169,Essen,6074,"5,731161895",,,,,"26,4",2020,outgoing commuters,"50,9375","6,9603",Düsseldorf
-170,Duisburg,4863,"4,588515031",,,,,"23,3",2020,outgoing commuters,"51,4556","7,0116",Düsseldorf
-171,Krefeld,3623,"3,418505029",,,,,"20,2",2020,outgoing commuters,"51,3369","6,5535",Düsseldorf
-172,Wuppertal,3151,"2,973146383",,,,,"25,1",2020,outgoing commuters,"51,1805","6,4425",Düsseldorf
-173,Mönchengladbach,2797,"2,639127399",,,,,"28,8",2020,outgoing commuters,"51,2562","7,1507",Düsseldorf
-174,Leverkusen,2601,"2,454190334",,,,,"179,5",2020,outgoing commuters,"51,1734","7,0845",Düsseldorf
-175,Mülheim an der Ruhr,1975,"1,863523995",,,,,"24,9",2020,outgoing commuters,"51,4309","6,8785",Düsseldorf
-176,Solingen,1727,"1,629521994",,,,,"20,4",2020,outgoing commuters,"51,496","6,8517",Düsseldorf
-177,Bonn,1713,"1,616312204",,,,,"19,6",2020,outgoing commuters,"51,4812","7,2195",Düsseldorf
-178,Dortmund,1195,"1,127549961",,,,,"62,6",2020,outgoing commuters,"51,5136","7,4653",Düsseldorf
-179,Oberhausen,1033,"0,974693816",,,,,"55,8",2020,outgoing commuters,"51,0451","6,9944",Düsseldorf
-180,Ratingen,7305,"6,892679889",,,,,"9,9",2020,outgoing commuters,"51,2969","6,8528",Düsseldorf
-181,Hilden,4157,"3,922364175",,,,,"11,5",2020,outgoing commuters,"51,1657","6,9362",Düsseldorf
-182,Langenfeld (Rheinland),3518,"3,319431602",,,,,"17,2",2020,outgoing commuters,"51,2249","6,9073",Düsseldorf
-183,Erkrath,2695,"2,542884641",,,,,"8,4",2020,outgoing commuters,"51,1139","6,9805",Düsseldorf
-184,Monheim am Rhein,1965,"1,85408843",,,,,"16,5",2020,outgoing commuters,"51,0969","6,9474",Düsseldorf
-185,Neuss,8778,"8,282538544",,,,,"10,3",2020,outgoing commuters,"51,2042","6,6879",Düsseldorf
-186,Meerbusch,1975,"1,863523995",,,,,"11,1",2020,outgoing commuters,"51,2622","6,6751",Düsseldorf
-187,Dormagen,912,"0,860523485",,,,,"14,6",2020,outgoing commuters,"51,2209","6,6194",Düsseldorf
-188,Kaarst,797,"0,752014493",,,,,14,2020,outgoing commuters,"51,0973","6,6864",Düsseldorf
-189,Grevenbroich,738,"0,696344662",,,,,"21,6",2020,outgoing commuters,"51,0956","6,8397",Düsseldorf
-190,Willich,809,"0,76333717",,,,,"20,6",2020,outgoing commuters,"51,2643","6,5491",Düsseldorf
-191,Viersen,535,"0,504802702",,,,,"31,5",2020,outgoing commuters,"51,255","6,3934",Düsseldorf
-192,Kempen,223,"0,210413089",,,,,"30,5",2020,outgoing commuters,"51,2889","6,3986",Düsseldorf
-193,Tönisvorst,158,"0,14908192",,,,,"26,6",2020,outgoing commuters,"51,366","6,4153",Düsseldorf
-194,Nettetal,103,"0,097186315",,,,,"40,1",2020,outgoing commuters,"51,3167","6,2833",Düsseldorf
-195,alle sonstigen Orte,31407,"29,63427752",,,,,x,2020,outgoing commuters,"0,0","0,0",Düsseldorf
+,zielort,anzahl,anzahl_prozent,weiblich,weiblich_prozent,maennlich,maennlich_prozent,entfernung_in_km,year,category,breitengrad,laengengrad,herkunftsort,herkunftsort_laengengrad,herkunftsort_breitengrad
+0,Köln,8139,"8,8",3406,"8,7",4733,"8,8","34,2",2014,outgoing commuters,"51,4344","6,7623",Düsseldorf,"6,7735","51,2277"
+1,Essen,4943,"5,3",2205,"5,6",2738,"5,1","26,4",2014,outgoing commuters,"50,9375","6,9603",Düsseldorf,"6,7735","51,2277"
+2,Duisburg,4414,"4,8",1965,5,2449,"4,6","23,3",2014,outgoing commuters,"51,4556","7,0116",Düsseldorf,"6,7735","51,2277"
+3,Krefeld,3164,"3,4",1255,"3,2",1909,"3,6","20,2",2014,outgoing commuters,"51,3369","6,5535",Düsseldorf,"6,7735","51,2277"
+4,Wuppertal,2704,"2,9",1191,3,1513,"2,8","25,1",2014,outgoing commuters,"51,1805","6,4425",Düsseldorf,"6,7735","51,2277"
+5,Mönchengladbach,2449,"2,6",1177,3,1272,"2,4","28,9",2014,outgoing commuters,"51,2562","7,1507",Düsseldorf,"6,7735","51,2277"
+6,Mülheim an der Ruhr,1867,2,708,"1,8",1159,"2,2","20,4",2014,outgoing commuters,"51,4309","6,8785",Düsseldorf,"6,7735","51,2277"
+7,Leverkusen,1519,"1,6",623,"1,6",896,"1,7","24,9",2014,outgoing commuters,"51,1734","7,0845",Düsseldorf,"6,7735","51,2277"
+8,Solingen,1502,"1,6",635,"1,6",867,"1,6","19,6",2014,outgoing commuters,"51,496","6,8517",Düsseldorf,"6,7735","51,2277"
+9,Bonn,1077,"1,2",434,"1,1",643,"1,2","62,6",2014,outgoing commuters,"51,4812","7,2195",Düsseldorf,"6,7735","51,2277"
+10,Dortmund,1053,"1,1",388,1,665,"1,2","55,8",2014,outgoing commuters,"51,5136","7,4653",Düsseldorf,"6,7735","51,2277"
+11,Oberhausen,805,"0,9",328,"0,8",477,"0,9",31,2014,outgoing commuters,"51,0451","6,9944",Düsseldorf,"6,7735","51,2277"
+12,Ratingen,6202,"6,7",2805,"7,2",3397,"6,3","9,9",2014,outgoing commuters,"51,2969","6,8528",Düsseldorf,"6,7735","51,2277"
+13,Hilden,3729,4,1580,4,2149,4,"11,5",2014,outgoing commuters,"51,1657","6,9362",Düsseldorf,"6,7735","51,2277"
+14,Langenfeld (Rheinland),3436,"3,7",1459,"3,7",1977,"3,7","17,2",2014,outgoing commuters,"51,2249","6,9073",Düsseldorf,"6,7735","51,2277"
+15,Erkrath,2435,"2,6",1102,"2,8",1333,"2,5","8,4",2014,outgoing commuters,"51,1139","6,9805",Düsseldorf,"6,7735","51,2277"
+16,Monheim am Rhein,1543,"1,7",733,"1,9",810,"1,5","16,5",2014,outgoing commuters,"51,0969","6,9474",Düsseldorf,"6,7735","51,2277"
+17,Neuss,7935,"8,6",3346,"8,6",4589,"8,6","10,3",2014,outgoing commuters,"51,2042","6,6879",Düsseldorf,"6,7735","51,2277"
+18,Meerbusch,1888,2,925,"2,4",963,"1,8","11,1",2014,outgoing commuters,"51,2622","6,6751",Düsseldorf,"6,7735","51,2277"
+19,Dormagen,739,"0,8",250,"0,6",489,"0,9","14,6",2014,outgoing commuters,"51,2209","6,6194",Düsseldorf,"6,7735","51,2277"
+20,Kaarst,714,"0,8",312,"0,8",402,"0,7",14,2014,outgoing commuters,"51,0973","6,6864",Düsseldorf,"6,7735","51,2277"
+21,Grevenbroich,592,"0,6",247,"0,6",345,"0,6","21,7",2014,outgoing commuters,"51,0956","6,8397",Düsseldorf,"6,7735","51,2277"
+22,Willich,724,"0,8",264,"0,7",460,"0,9","20,6",2014,outgoing commuters,"51,2643","6,5491",Düsseldorf,"6,7735","51,2277"
+23,Viersen,454,"0,5",207,"0,5",247,"0,5","31,5",2014,outgoing commuters,"51,255","6,3934",Düsseldorf,"6,7735","51,2277"
+24,Kempen,157,"0,2",82,"0,2",75,"0,1","30,5",2014,outgoing commuters,"51,2889","6,3986",Düsseldorf,"6,7735","51,2277"
+25,Tönisvorst,143,"0,2",77,"0,2",66,"0,1","26,6",2014,outgoing commuters,"51,366","6,4153",Düsseldorf,"6,7735","51,2277"
+26,Nettetal,92,"0,1",46,"0,1",46,"0,1","40,1",2014,outgoing commuters,"51,3167","6,2833",Düsseldorf,"6,7735","51,2277"
+27,alle sonstigen Orte,24855,"26,8",9924,"25,4",14931,"27,8",x,2014,outgoing commuters,"0,0","0,0",Düsseldorf,"6,7735","51,2277"
+28,Köln,8425,"8,9",3500,"8,8",4925,"8,9","34,2",2015,outgoing commuters,"51,4344","6,7623",Düsseldorf,"6,7735","51,2277"
+29,Essen,5090,"5,3",2250,"5,6",2840,"5,1","26,4",2015,outgoing commuters,"50,9375","6,9603",Düsseldorf,"6,7735","51,2277"
+30,Duisburg,4329,"4,5",1922,"4,8",2407,"4,4","23,3",2015,outgoing commuters,"51,4556","7,0116",Düsseldorf,"6,7735","51,2277"
+31,Krefeld,3175,"3,3",1295,"3,2",1880,"3,4","20,2",2015,outgoing commuters,"51,3369","6,5535",Düsseldorf,"6,7735","51,2277"
+32,Wuppertal,2867,3,1279,"3,2",1588,"2,9","25,1",2015,outgoing commuters,"51,1805","6,4425",Düsseldorf,"6,7735","51,2277"
+33,Mönchengladbach,2525,"2,7",1210,3,1315,"2,4","28,9",2015,outgoing commuters,"51,2562","7,1507",Düsseldorf,"6,7735","51,2277"
+34,Mülheim an der Ruhr,1899,2,737,"1,8",1162,"2,1","20,4",2015,outgoing commuters,"51,4309","6,8785",Düsseldorf,"6,7735","51,2277"
+35,Leverkusen,1626,"1,7",696,"1,7",930,"1,7","24,9",2015,outgoing commuters,"51,1734","7,0845",Düsseldorf,"6,7735","51,2277"
+36,Solingen,1516,"1,6",630,"1,6",886,"1,6","19,6",2015,outgoing commuters,"51,496","6,8517",Düsseldorf,"6,7735","51,2277"
+37,Bonn,1146,"1,2",467,"1,2",679,"1,2","62,6",2015,outgoing commuters,"51,4812","7,2195",Düsseldorf,"6,7735","51,2277"
+38,Dortmund,988,1,393,1,595,"1,1","55,8",2015,outgoing commuters,"51,5136","7,4653",Düsseldorf,"6,7735","51,2277"
+39,Oberhausen,882,"0,9",379,"0,9",503,"0,9",31,2015,outgoing commuters,"51,0451","6,9944",Düsseldorf,"6,7735","51,2277"
+40,Ratingen,6331,"6,7",2836,"7,1",3495,"6,3","9,9",2015,outgoing commuters,"51,2969","6,8528",Düsseldorf,"6,7735","51,2277"
+41,Hilden,3940,"4,1",1681,"4,2",2259,"4,1","11,5",2015,outgoing commuters,"51,1657","6,9362",Düsseldorf,"6,7735","51,2277"
+42,Langenfeld (Rheinland),3443,"3,6",1449,"3,6",1994,"3,6","17,2",2015,outgoing commuters,"51,2249","6,9073",Düsseldorf,"6,7735","51,2277"
+43,Erkrath,2593,"2,7",1160,"2,9",1433,"2,6","8,4",2015,outgoing commuters,"51,1139","6,9805",Düsseldorf,"6,7735","51,2277"
+44,Monheim am Rhein,1650,"1,7",783,2,867,"1,6","16,5",2015,outgoing commuters,"51,0969","6,9474",Düsseldorf,"6,7735","51,2277"
+45,Neuss,8156,"8,6",3443,"8,6",4713,"8,5","10,3",2015,outgoing commuters,"51,2042","6,6879",Düsseldorf,"6,7735","51,2277"
+46,Meerbusch,1934,2,948,"2,4",986,"1,8","11,1",2015,outgoing commuters,"51,2622","6,6751",Düsseldorf,"6,7735","51,2277"
+47,Dormagen,770,"0,8",260,"0,7",510,"0,9","14,6",2015,outgoing commuters,"51,2209","6,6194",Düsseldorf,"6,7735","51,2277"
+48,Kaarst,700,"0,7",304,"0,8",396,"0,7",14,2015,outgoing commuters,"51,0973","6,6864",Düsseldorf,"6,7735","51,2277"
+49,Grevenbroich,605,"0,6",242,"0,6",363,"0,7","21,7",2015,outgoing commuters,"51,0956","6,8397",Düsseldorf,"6,7735","51,2277"
+50,Willich,750,"0,8",276,"0,7",474,"0,9","20,6",2015,outgoing commuters,"51,2643","6,5491",Düsseldorf,"6,7735","51,2277"
+51,Viersen,448,"0,5",219,"0,5",229,"0,4","31,5",2015,outgoing commuters,"51,255","6,3934",Düsseldorf,"6,7735","51,2277"
+52,Kempen,178,"0,2",90,"0,2",88,"0,2","30,5",2015,outgoing commuters,"51,2889","6,3986",Düsseldorf,"6,7735","51,2277"
+53,Tönisvorst,125,"0,1",70,"0,2",55,"0,1","26,6",2015,outgoing commuters,"51,366","6,4153",Düsseldorf,"6,7735","51,2277"
+54,Nettetal,99,"0,1",40,"0,1",59,"0,1","40,1",2015,outgoing commuters,"51,3167","6,2833",Düsseldorf,"6,7735","51,2277"
+55,alle sonstigen Orte,25418,"26,7",9947,"24,9",15471,28,x,2015,outgoing commuters,"0,0","0,0",Düsseldorf,"6,7735","51,2277"
+56,Köln,8997,"8,9",3841,"8,9",5156,"8,8","34,2",2016,outgoing commuters,"51,4344","6,7623",Düsseldorf,"6,7735","51,2277"
+57,Essen,5413,"5,3",2397,"5,5",3016,"5,2","26,4",2016,outgoing commuters,"50,9375","6,9603",Düsseldorf,"6,7735","51,2277"
+58,Duisburg,4574,"4,5",2051,"4,7",2523,"4,3","23,3",2016,outgoing commuters,"51,4556","7,0116",Düsseldorf,"6,7735","51,2277"
+59,Krefeld,3399,"3,3",1415,"3,3",1984,"3,4","20,2",2016,outgoing commuters,"51,3369","6,5535",Düsseldorf,"6,7735","51,2277"
+60,Wuppertal,3072,3,1390,"3,2",1682,"2,9","25,1",2016,outgoing commuters,"51,1805","6,4425",Düsseldorf,"6,7735","51,2277"
+61,Mönchengladbach,2616,"2,6",1281,3,1335,"2,3","28,9",2016,outgoing commuters,"51,2562","7,1507",Düsseldorf,"6,7735","51,2277"
+62,Mülheim an der Ruhr,1907,"1,9",771,"1,8",1136,"1,9","20,4",2016,outgoing commuters,"51,4309","6,8785",Düsseldorf,"6,7735","51,2277"
+63,Leverkusen,1775,"1,7",757,"1,8",1018,"1,7","24,9",2016,outgoing commuters,"51,1734","7,0845",Düsseldorf,"6,7735","51,2277"
+64,Solingen,1680,"1,7",705,"1,6",975,"1,7","19,6",2016,outgoing commuters,"51,496","6,8517",Düsseldorf,"6,7735","51,2277"
+65,Bonn,1292,"1,3",569,"1,3",723,"1,2","62,6",2016,outgoing commuters,"51,4812","7,2195",Düsseldorf,"6,7735","51,2277"
+66,Dortmund,993,1,363,"0,8",630,"1,1","55,8",2016,outgoing commuters,"51,5136","7,4653",Düsseldorf,"6,7735","51,2277"
+67,Oberhausen,916,"0,9",401,"0,9",515,"0,9",31,2016,outgoing commuters,"51,0451","6,9944",Düsseldorf,"6,7735","51,2277"
+68,Ratingen,6633,"6,5",3017,7,3616,"6,2","9,9",2016,outgoing commuters,"51,2969","6,8528",Düsseldorf,"6,7735","51,2277"
+69,Hilden,4096,4,1761,"4,1",2335,4,"11,5",2016,outgoing commuters,"51,1657","6,9362",Düsseldorf,"6,7735","51,2277"
+70,Langenfeld (Rheinland),3397,"3,3",1403,"3,2",1994,"3,4","17,2",2016,outgoing commuters,"51,2249","6,9073",Düsseldorf,"6,7735","51,2277"
+71,Erkrath,2756,"2,7",1264,"2,9",1492,"2,6","8,4",2016,outgoing commuters,"51,1139","6,9805",Düsseldorf,"6,7735","51,2277"
+72,Monheim am Rhein,1730,"1,7",824,"1,9",906,"1,6","16,5",2016,outgoing commuters,"51,0969","6,9474",Düsseldorf,"6,7735","51,2277"
+73,Neuss,8424,"8,3",3613,"8,4",4811,"8,2","10,3",2016,outgoing commuters,"51,2042","6,6879",Düsseldorf,"6,7735","51,2277"
+74,Meerbusch,2006,2,1016,"2,4",990,"1,7","11,1",2016,outgoing commuters,"51,2622","6,6751",Düsseldorf,"6,7735","51,2277"
+75,Dormagen,793,"0,8",253,"0,6",540,"0,9","14,6",2016,outgoing commuters,"51,2209","6,6194",Düsseldorf,"6,7735","51,2277"
+76,Kaarst,726,"0,7",330,"0,8",396,"0,7",14,2016,outgoing commuters,"51,0973","6,6864",Düsseldorf,"6,7735","51,2277"
+77,Grevenbroich,686,"0,7",280,"0,6",406,"0,7","21,7",2016,outgoing commuters,"51,0956","6,8397",Düsseldorf,"6,7735","51,2277"
+78,Willich,775,"0,8",291,"0,7",484,"0,8","20,6",2016,outgoing commuters,"51,2643","6,5491",Düsseldorf,"6,7735","51,2277"
+79,Viersen,458,"0,5",243,"0,6",215,"0,4","31,5",2016,outgoing commuters,"51,255","6,3934",Düsseldorf,"6,7735","51,2277"
+80,Kempen,195,"0,2",88,"0,2",107,"0,2","30,5",2016,outgoing commuters,"51,2889","6,3986",Düsseldorf,"6,7735","51,2277"
+81,Tönisvorst,145,"0,1",78,"0,2",67,"0,1","26,6",2016,outgoing commuters,"51,366","6,4153",Düsseldorf,"6,7735","51,2277"
+82,Nettetal,108,"0,1",53,"0,1",55,"0,1","40,1",2016,outgoing commuters,"51,3167","6,2833",Düsseldorf,"6,7735","51,2277"
+83,alle sonstigen Orte,28244,"27,8",11157,"25,8",17087,"29,3",x,2016,outgoing commuters,"0,0","0,0",Düsseldorf,"6,7735","51,2277"
+84,Köln,9 466    ,9,4 029    ,"9,1",5 437    ,9,"34,2",2017,outgoing commuters,"51,4344","6,7623",Düsseldorf,"6,7735","51,2277"
+85,Essen,5 616    ,"5,4",2 517    ,"5,7",3 099    ,"5,1","26,4",2017,outgoing commuters,"50,9375","6,9603",Düsseldorf,"6,7735","51,2277"
+86,Duisburg,4 665    ,"4,5",2 071    ,"4,7",2 594    ,"4,3","23,3",2017,outgoing commuters,"51,4556","7,0116",Düsseldorf,"6,7735","51,2277"
+87,Krefeld,3 622    ,"3,5",1 480    ,"3,3",2 142    ,"3,6","20,2",2017,outgoing commuters,"51,3369","6,5535",Düsseldorf,"6,7735","51,2277"
+88,Wuppertal,3 238    ,"3,1",1 429    ,"3,2",1 809    ,3,"25,1",2017,outgoing commuters,"51,1805","6,4425",Düsseldorf,"6,7735","51,2277"
+89,Mönchengladbach,2 830    ,"2,7",1 366    ,"3,1",1 464    ,"2,4","28,9",2017,outgoing commuters,"51,2562","7,1507",Düsseldorf,"6,7735","51,2277"
+90,Leverkusen,1 859    ,"1,8",763,"1,7",1 096    ,"1,8","24,9",2017,outgoing commuters,"51,1734","7,0845",Düsseldorf,"6,7735","51,2277"
+91,Mülheim an der Ruhr,1 832    ,"1,8",746,"1,7",1 086    ,"1,8","20,4",2017,outgoing commuters,"51,4309","6,8785",Düsseldorf,"6,7735","51,2277"
+92,Solingen,1 724    ,"1,6",730,"1,6",994,"1,6","19,6",2017,outgoing commuters,"51,496","6,8517",Düsseldorf,"6,7735","51,2277"
+93,Bonn,1 210    ,"1,2",511,"1,2",699,"1,2","62,6",2017,outgoing commuters,"51,4812","7,2195",Düsseldorf,"6,7735","51,2277"
+94,Dortmund,998,1,360,"0,8",638,"1,1","55,8",2017,outgoing commuters,"51,5136","7,4653",Düsseldorf,"6,7735","51,2277"
+95,Oberhausen,936,"0,9",424,1,512,"0,8",31,2017,outgoing commuters,"51,0451","6,9944",Düsseldorf,"6,7735","51,2277"
+96,Ratingen,6 824    ,"6,5",2 980    ,"6,7",3 844    ,"6,4","9,9",2017,outgoing commuters,"51,2969","6,8528",Düsseldorf,"6,7735","51,2277"
+97,Hilden,4 058    ,"3,9",1 731    ,"3,9",2 327    ,"3,9","11,5",2017,outgoing commuters,"51,1657","6,9362",Düsseldorf,"6,7735","51,2277"
+98,Langenfeld (Rheinland),3 573    ,"3,4",1 479    ,"3,3",2 094    ,"3,5","17,2",2017,outgoing commuters,"51,2249","6,9073",Düsseldorf,"6,7735","51,2277"
+99,Erkrath,2 751    ,"2,6",1 259    ,"2,8",1 492    ,"2,5","8,4",2017,outgoing commuters,"51,1139","6,9805",Düsseldorf,"6,7735","51,2277"
+100,Monheim am Rhein,1 861    ,"1,8",897,2,964,"1,6","16,5",2017,outgoing commuters,"51,0969","6,9474",Düsseldorf,"6,7735","51,2277"
+101,Neuss,8 684    ,"8,3",3 716    ,"8,4",4 968    ,"8,2","10,3",2017,outgoing commuters,"51,2042","6,6879",Düsseldorf,"6,7735","51,2277"
+102,Meerbusch,2 030    ,"1,9",1 030    ,"2,3",1 000    ,"1,7","11,1",2017,outgoing commuters,"51,2622","6,6751",Düsseldorf,"6,7735","51,2277"
+103,Dormagen,780,"0,7",252,"0,6",528,"0,9","14,6",2017,outgoing commuters,"51,2209","6,6194",Düsseldorf,"6,7735","51,2277"
+104,Kaarst,763,"0,7",353,"0,8",410,"0,7",14,2017,outgoing commuters,"51,0973","6,6864",Düsseldorf,"6,7735","51,2277"
+105,Grevenbroich,709,"0,7",296,"0,7",413,"0,7","21,7",2017,outgoing commuters,"51,0956","6,8397",Düsseldorf,"6,7735","51,2277"
+106,Willich,755,"0,7",283,"0,6",472,"0,8","20,6",2017,outgoing commuters,"51,2643","6,5491",Düsseldorf,"6,7735","51,2277"
+107,Viersen,470,"0,4",238,"0,5",232,"0,4","31,5",2017,outgoing commuters,"51,255","6,3934",Düsseldorf,"6,7735","51,2277"
+108,Kempen,203,"0,2",89,"0,2",114,"0,2","30,5",2017,outgoing commuters,"51,2889","6,3986",Düsseldorf,"6,7735","51,2277"
+109,Tönisvorst,149,"0,1",80,"0,2",69,"0,1","26,6",2017,outgoing commuters,"51,366","6,4153",Düsseldorf,"6,7735","51,2277"
+110,Nettetal,104,"0,1",51,"0,1",53,"0,1","40,1",2017,outgoing commuters,"51,3167","6,2833",Düsseldorf,"6,7735","51,2277"
+111,alle sonstigen Orte,29 167    ,"27,9",11 552    ,"26,1",17 615    ,"29,2",x,2017,outgoing commuters,"0,0","0,0",Düsseldorf,"6,7735","51,2277"
+112,Köln,9404,"8,886536953",3860,"8,671039626",5544,"9,043013033","34,2",2018,outgoing commuters,"51,4344","6,7623",Düsseldorf,"6,7735","51,2277"
+113,Essen,5714,"5,399582321",2578,"5,791176206",3136,"5,115239695","26,4",2018,outgoing commuters,"50,9375","6,9603",Düsseldorf,"6,7735","51,2277"
+114,Duisburg,4683,"4,425313968",2099,"4,715158595",2584,"4,214853116","23,3",2018,outgoing commuters,"51,4556","7,0116",Düsseldorf,"6,7735","51,2277"
+115,Krefeld,3638,"3,437815976",1491,"3,349357534",2147,"3,502047075","20,2",2018,outgoing commuters,"51,3369","6,5535",Düsseldorf,"6,7735","51,2277"
+116,Wuppertal,3221,"3,043761753",1435,"3,223560068",1786,"2,913207301","25,1",2018,outgoing commuters,"51,1805","6,4425",Düsseldorf,"6,7735","51,2277"
+117,Mönchengladbach,2773,"2,620413332",1291,"2,90008087",1482,"2,417342228","28,9",2018,outgoing commuters,"51,2562","7,1507",Düsseldorf,"6,7735","51,2277"
+118,Leverkusen,1911,"1,80584561",789,"1,772396442",1122,"1,83013359","24,9",2018,outgoing commuters,"51,1734","7,0845",Düsseldorf,"6,7735","51,2277"
+119,Mülheim an der Ruhr,1798,"1,699063531",772,"1,734207925",1026,"1,67354462","19,6",2018,outgoing commuters,"51,4309","6,8785",Düsseldorf,"6,7735","51,2277"
+120,Solingen,1630,"1,540307873",690,"1,550004493",940,"1,533267001","20,4",2018,outgoing commuters,"51,496","6,8517",Düsseldorf,"6,7735","51,2277"
+121,Bonn,1159,"1,095225046",486,"1,091742295",673,"1,097753927","62,6",2018,outgoing commuters,"51,4812","7,2195",Düsseldorf,"6,7735","51,2277"
+122,Dortmund,1102,"1,041361519",474,"1,064785695",628,"1,024352847",31,2018,outgoing commuters,"51,5136","7,4653",Düsseldorf,"6,7735","51,2277"
+123,Oberhausen,1093,"1,032856751",386,"0,867103963",707,"1,153212521","55,8",2018,outgoing commuters,"51,0451","6,9944",Düsseldorf,"6,7735","51,2277"
+124,Ratingen,6886,"6,507092031",2997,"6,732410819",3889,"6,343484431","9,9",2018,outgoing commuters,"51,2969","6,8528",Düsseldorf,"6,7735","51,2277"
+125,Hilden,4146,"3,917862846",1746,"3,922185282",2400,"3,914724257","11,5",2018,outgoing commuters,"51,1657","6,9362",Düsseldorf,"6,7735","51,2277"
+126,Langenfeld (Rheinland),3520,"3,326309025",1441,"3,237038368",2079,"3,391129887","17,2",2018,outgoing commuters,"51,2249","6,9073",Düsseldorf,"6,7735","51,2277"
+127,Erkrath,2763,"2,61096359",1265,"2,841674903",1498,"2,44344039","8,4",2018,outgoing commuters,"51,1139","6,9805",Düsseldorf,"6,7735","51,2277"
+128,Monheim am Rhein,1880,"1,776551411",872,"1,958846258",1008,"1,644184188","16,5",2018,outgoing commuters,"51,0969","6,9474",Düsseldorf,"6,7735","51,2277"
+129,Neuss,8826,"8,340341892",3776,"8,482343427",5050,"8,23723229","10,3",2018,outgoing commuters,"51,2042","6,6879",Düsseldorf,"6,7735","51,2277"
+130,Meerbusch,1971,"1,862544059",1002,"2,250876089",969,"1,580569919","11,1",2018,outgoing commuters,"51,2622","6,6751",Düsseldorf,"6,7735","51,2277"
+131,Dormagen,797,"0,753144402",261,"0,586306047",536,"0,874288417","14,6",2018,outgoing commuters,"51,2209","6,6194",Düsseldorf,"6,7735","51,2277"
+132,Kaarst,754,"0,712510513",353,"0,792973313",401,"0,654085178",14,2018,outgoing commuters,"51,0973","6,6864",Düsseldorf,"6,7735","51,2277"
+133,Grevenbroich,746,"0,70495072",306,"0,687393297",440,"0,717699447","21,7",2018,outgoing commuters,"51,0956","6,8397",Düsseldorf,"6,7735","51,2277"
+134,Willich,777,"0,734244918",304,"0,68290053",473,"0,771526906","20,6",2018,outgoing commuters,"51,2643","6,5491",Düsseldorf,"6,7735","51,2277"
+135,Viersen,537,"0,507451121",255,"0,572827747",282,"0,4599801","31,5",2018,outgoing commuters,"51,255","6,3934",Düsseldorf,"6,7735","51,2277"
+136,Kempen,214,"0,202224469",97,"0,217899182",117,"0,190842808","30,5",2018,outgoing commuters,"51,2889","6,3986",Düsseldorf,"6,7735","51,2277"
+137,Tönisvorst,151,"0,142691097",83,"0,186449816",68,"0,110917187","26,6",2018,outgoing commuters,"51,366","6,4153",Düsseldorf,"6,7735","51,2277"
+138,Nettetal,117,"0,110561976",55,"0,123551083",62,"0,101130377","40,1",2018,outgoing commuters,"51,3167","6,2833",Düsseldorf,"6,7735","51,2277"
+139,alle sonstigen Orte,29819,"28,17818433",11772,"26,44442448",18047,"29,43709527",x,2018,outgoing commuters,"0,0","0,0",Düsseldorf,"6,7735","51,2277"
+140,Köln,9717,"9,005978034",3949,"8,777506112",5768,"9,169382402","34,2",2019,outgoing commuters,"51,4344","6,7623",Düsseldorf,"6,7735","51,2277"
+141,Essen,5940,"5,505352426",2608,"5,796843743",3332,"5,296876242","26,4",2019,outgoing commuters,"50,9375","6,9603",Düsseldorf,"6,7735","51,2277"
+142,Duisburg,4742,"4,395013671",2109,"4,68770838",2633,"4,185676814","23,3",2019,outgoing commuters,"51,4556","7,0116",Düsseldorf,"6,7735","51,2277"
+143,Krefeld,3644,"3,377357616",1460,"3,245165592",2184,"3,471902075","20,2",2019,outgoing commuters,"51,3369","6,5535",Düsseldorf,"6,7735","51,2277"
+144,Wuppertal,3200,"2,965846425",1374,"3,054012003",1826,"2,902789921","25,1",2019,outgoing commuters,"51,1805","6,4425",Düsseldorf,"6,7735","51,2277"
+145,Mönchengladbach,2949,"2,733212846",1343,"2,985107802",1606,"2,553056196","28,8",2019,outgoing commuters,"51,2562","7,1507",Düsseldorf,"6,7735","51,2277"
+146,Leverkusen,1972,"1,827702859",794,"1,76483663",1178,"1,87266513","24,9",2019,outgoing commuters,"51,1734","7,0845",Düsseldorf,"6,7735","51,2277"
+147,Mülheim an der Ruhr,1779,"1,648825247",741,"1,647032674",1038,"1,650107305","19,6",2019,outgoing commuters,"51,4309","6,8785",Düsseldorf,"6,7735","51,2277"
+148,Solingen,1647,"1,526484082",690,"1,53367415",957,"1,521341706","20,4",2019,outgoing commuters,"51,496","6,8517",Düsseldorf,"6,7735","51,2277"
+149,Bonn,1180,"1,093655869",379,"0,842409424",801,"1,2733487","55,8",2019,outgoing commuters,"51,4812","7,2195",Düsseldorf,"6,7735","51,2277"
+150,Dortmund,1174,"1,088094907",482,"1,071349189",692,"1,100071536","62,6",2019,outgoing commuters,"51,5136","7,4653",Düsseldorf,"6,7735","51,2277"
+151,Oberhausen,957,"0,886973446",448,"0,995776839",509,"0,809156665",31,2019,outgoing commuters,"51,0451","6,9944",Düsseldorf,"6,7735","51,2277"
+152,Ratingen,7185,"6,659252051",3063,"6,808179595",4122,"6,552738256","9,9",2019,outgoing commuters,"51,2969","6,8528",Düsseldorf,"6,7735","51,2277"
+153,Hilden,4250,"3,939014783",1759,"3,909757724",2491,"3,959939591","11,5",2019,outgoing commuters,"51,1657","6,9362",Düsseldorf,"6,7735","51,2277"
+154,Langenfeld (Rheinland),3506,"3,249455489",1443,"3,207379418",2063,"3,279548526","17,2",2019,outgoing commuters,"51,2249","6,9073",Düsseldorf,"6,7735","51,2277"
+155,Erkrath,2701,"2,503359748",1270,"2,822849522",1431,"2,274858914","8,4",2019,outgoing commuters,"51,1139","6,9805",Düsseldorf,"6,7735","51,2277"
+156,Monheim am Rhein,1918,"1,777654201",896,"1,991553679",1022,"1,624672125","16,5",2019,outgoing commuters,"51,0969","6,9474",Düsseldorf,"6,7735","51,2277"
+157,Neuss,9067,"8,403540479",3840,"8,535230051",5227,"8,309355377","10,3",2019,outgoing commuters,"51,2042","6,6879",Düsseldorf,"6,7735","51,2277"
+158,Meerbusch,2029,"1,880531999",1042,"2,316070238",987,"1,569032668","11,1",2019,outgoing commuters,"51,2622","6,6751",Düsseldorf,"6,7735","51,2277"
+159,Dormagen,846,"0,784095649",265,"0,589019782",581,"0,923614975","14,6",2019,outgoing commuters,"51,2209","6,6194",Düsseldorf,"6,7735","51,2277"
+160,Kaarst,813,"0,753510357",375,"0,83351856",438,"0,696288053",14,2019,outgoing commuters,"51,0973","6,6864",Düsseldorf,"6,7735","51,2277"
+161,Grevenbroich,754,"0,698827564",325,"0,722382752",429,"0,681980765","21,6",2019,outgoing commuters,"51,0956","6,8397",Düsseldorf,"6,7735","51,2277"
+162,Willich,840,"0,778534687",330,"0,733496333",510,"0,810746364","20,6",2019,outgoing commuters,"51,2643","6,5491",Düsseldorf,"6,7735","51,2277"
+163,Viersen,549,"0,508828027",280,"0,622360525",269,"0,427628964","31,5",2019,outgoing commuters,"51,255","6,3934",Düsseldorf,"6,7735","51,2277"
+164,Kempen,200,"0,185365402",98,"0,217826184",102,"0,162149273","30,5",2019,outgoing commuters,"51,2889","6,3986",Düsseldorf,"6,7735","51,2277"
+165,Tönisvorst,156,"0,144585013",87,"0,193376306",69,"0,109689214","26,6",2019,outgoing commuters,"51,366","6,4153",Düsseldorf,"6,7735","51,2277"
+166,Nettetal,104,"0,096390009",49,"0,108913092",55,"0,087433431","40,1",2019,outgoing commuters,"51,3167","6,2833",Düsseldorf,"6,7735","51,2277"
+167,alle sonstigen Orte,30129,"27,92437092",11880,"26,40586797",18249,"29,01041253",x,2019,outgoing commuters,"0,0","0,0",Düsseldorf,"6,7735","51,2277"
+168,Köln,9155,"8,638259327",,,,,"34,2",2020,outgoing commuters,"51,4344","6,7623",Düsseldorf,"6,7735","51,2277"
+169,Essen,6074,"5,731161895",,,,,"26,4",2020,outgoing commuters,"50,9375","6,9603",Düsseldorf,"6,7735","51,2277"
+170,Duisburg,4863,"4,588515031",,,,,"23,3",2020,outgoing commuters,"51,4556","7,0116",Düsseldorf,"6,7735","51,2277"
+171,Krefeld,3623,"3,418505029",,,,,"20,2",2020,outgoing commuters,"51,3369","6,5535",Düsseldorf,"6,7735","51,2277"
+172,Wuppertal,3151,"2,973146383",,,,,"25,1",2020,outgoing commuters,"51,1805","6,4425",Düsseldorf,"6,7735","51,2277"
+173,Mönchengladbach,2797,"2,639127399",,,,,"28,8",2020,outgoing commuters,"51,2562","7,1507",Düsseldorf,"6,7735","51,2277"
+174,Leverkusen,2601,"2,454190334",,,,,"179,5",2020,outgoing commuters,"51,1734","7,0845",Düsseldorf,"6,7735","51,2277"
+175,Mülheim an der Ruhr,1975,"1,863523995",,,,,"24,9",2020,outgoing commuters,"51,4309","6,8785",Düsseldorf,"6,7735","51,2277"
+176,Solingen,1727,"1,629521994",,,,,"20,4",2020,outgoing commuters,"51,496","6,8517",Düsseldorf,"6,7735","51,2277"
+177,Bonn,1713,"1,616312204",,,,,"19,6",2020,outgoing commuters,"51,4812","7,2195",Düsseldorf,"6,7735","51,2277"
+178,Dortmund,1195,"1,127549961",,,,,"62,6",2020,outgoing commuters,"51,5136","7,4653",Düsseldorf,"6,7735","51,2277"
+179,Oberhausen,1033,"0,974693816",,,,,"55,8",2020,outgoing commuters,"51,0451","6,9944",Düsseldorf,"6,7735","51,2277"
+180,Ratingen,7305,"6,892679889",,,,,"9,9",2020,outgoing commuters,"51,2969","6,8528",Düsseldorf,"6,7735","51,2277"
+181,Hilden,4157,"3,922364175",,,,,"11,5",2020,outgoing commuters,"51,1657","6,9362",Düsseldorf,"6,7735","51,2277"
+182,Langenfeld (Rheinland),3518,"3,319431602",,,,,"17,2",2020,outgoing commuters,"51,2249","6,9073",Düsseldorf,"6,7735","51,2277"
+183,Erkrath,2695,"2,542884641",,,,,"8,4",2020,outgoing commuters,"51,1139","6,9805",Düsseldorf,"6,7735","51,2277"
+184,Monheim am Rhein,1965,"1,85408843",,,,,"16,5",2020,outgoing commuters,"51,0969","6,9474",Düsseldorf,"6,7735","51,2277"
+185,Neuss,8778,"8,282538544",,,,,"10,3",2020,outgoing commuters,"51,2042","6,6879",Düsseldorf,"6,7735","51,2277"
+186,Meerbusch,1975,"1,863523995",,,,,"11,1",2020,outgoing commuters,"51,2622","6,6751",Düsseldorf,"6,7735","51,2277"
+187,Dormagen,912,"0,860523485",,,,,"14,6",2020,outgoing commuters,"51,2209","6,6194",Düsseldorf,"6,7735","51,2277"
+188,Kaarst,797,"0,752014493",,,,,14,2020,outgoing commuters,"51,0973","6,6864",Düsseldorf,"6,7735","51,2277"
+189,Grevenbroich,738,"0,696344662",,,,,"21,6",2020,outgoing commuters,"51,0956","6,8397",Düsseldorf,"6,7735","51,2277"
+190,Willich,809,"0,76333717",,,,,"20,6",2020,outgoing commuters,"51,2643","6,5491",Düsseldorf,"6,7735","51,2277"
+191,Viersen,535,"0,504802702",,,,,"31,5",2020,outgoing commuters,"51,255","6,3934",Düsseldorf,"6,7735","51,2277"
+192,Kempen,223,"0,210413089",,,,,"30,5",2020,outgoing commuters,"51,2889","6,3986",Düsseldorf,"6,7735","51,2277"
+193,Tönisvorst,158,"0,14908192",,,,,"26,6",2020,outgoing commuters,"51,366","6,4153",Düsseldorf,"6,7735","51,2277"
+194,Nettetal,103,"0,097186315",,,,,"40,1",2020,outgoing commuters,"51,3167","6,2833",Düsseldorf,"6,7735","51,2277"
+195,alle sonstigen Orte,31407,"29,63427752",,,,,x,2020,outgoing commuters,"0,0","0,0",Düsseldorf,"6,7735","51,2277"
