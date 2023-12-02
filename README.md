@@ -1,6 +1,6 @@
 # commuters-duesseldorf-2014-2020
 
-Welcome to my data cleaning & analysis of commuters to and from Düsseldorf' from 2014 to 2020.
+Welcome to my data cleaning & analysis of commuters to and from Düsseldorf from 2014 to 2020.
 
 ### The Dataset
 i_commuters = incoming commuters
